@@ -17,7 +17,7 @@ O Gerenciador de Tarefas é uma aplicação desenvolvida em Python com interface
 
 ## Imagens da Aplicação
 
-- **Interface do Usuário**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/interface_de_usuario.png" alt="Interface do Usuário">
+- **Interface do Usuário**:<br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/interface_de_usuario.png" alt="Interface do Usuário">
 
 ## Tecnologias Utilizadas
 
