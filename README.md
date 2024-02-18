@@ -17,17 +17,17 @@ O Gerenciador de Tarefas é uma aplicação desenvolvida em Python com interface
 
 ## Imagens da Aplicação
 
-- **Interface do Usuário**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/interface_de_usuario.png" alt="Interface do Usuário"><br>
+- **Interface do Usuário**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/interface_de_usuario.png" alt="Interface do Usuário"><br><br>
 
-- **Adicionando Tarefas**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/adicionando_tarefas.png" alt="Adicionando Tarefas"><br>
+- **Adicionando Tarefas**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/adicionando_tarefas.png" alt="Adicionando Tarefas"><br><br>
 
-- **Lista de Tarefas**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/lista_de_tarefas.png" alt="Lista de Tarefas"><br>
+- **Lista de Tarefas**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/lista_de_tarefas.png" alt="Lista de Tarefas"><br><br>
 
-- **Editar Tarefas**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/editar_tarefas.png" alt="Editar Tarefas"><br>
+- **Editar Tarefas**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/editar_tarefas.png" alt="Editar Tarefas"><br><br>
 
-- **Excluir Tarefas**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/excluir_tarefas.png" alt="Excluir Tarefas"><br>
+- **Excluir Tarefas**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/excluir_tarefas.png" alt="Excluir Tarefas"><br><br>
 
-- **Botão Reset**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/botao_reset.png" alt="Botão Reset"><br>
+- **Botão Reset**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/botao_reset.png" alt="Botão Reset"><br><br>
 
 ## Tecnologias Utilizadas
 
