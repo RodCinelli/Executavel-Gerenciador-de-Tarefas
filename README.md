@@ -38,8 +38,8 @@ Utilize o e-mail pré-definido abaixo para ter uma visão geral da capacidade da
 
 Insira a tarefa normalmente através da interface do usuário e cheque a caixa de entrada do e-mail fornecido.
 
-- **E-mail**:
-- **Senha**:
+- **E-mail**: freegerenciador@gmail.com
+- **Senha**: 123teste4
 
 Toda vez que o usuário abrir a aplicação ela fará uma varredura nas tarefas inseridas e irá enviar um e-mail ao usuário quando qualquer tarefa que tiver sido incluída estiver a 1 dia do seu prazo final.
 
