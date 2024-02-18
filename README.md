@@ -15,6 +15,10 @@ O Gerenciador de Tarefas é uma aplicação desenvolvida em Python com interface
 - **Mensagens de Aviso e Sucesso**: Informações sobre ações do sistema.
 - **Envio de E-mails**: Envia ao usuário e-mails relacionados as tarefas que estão próximas ao prazo final.
 
+## Imagens da Aplicação
+
+- **Interface do Usuário**: ![Interface do Usuário](https://github.com/RodCinelli/Gerenciador-de-Tarefas/raw/main/Imagens Gerenciador/Interface de Usuário.png)
+
 ## Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação escolhida para o projeto.
