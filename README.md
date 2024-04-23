@@ -44,7 +44,9 @@ Para instalar e executar o Gerenciador de Tarefas, você pode simplesmente segui
 
 1. **Encontre o executável** (`Gerenciador de Tarefas.exe`) disponível na pasta `dist` e clique em `View raw`.
 
-2. **Baixe o arquivo executável** e execute-o com um duplo clique.
+2. **Baixe o arquivo executável** e crie uma pasta para ele na área de trabalho.
+
+2. **Insira o arquivo na pasta** e execute-o com um duplo clique.
 
 ## Teste de Funcionalidade
 
