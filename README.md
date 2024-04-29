@@ -2,7 +2,8 @@
 
 ## Descrição Geral
 
-O Gerenciador de Tarefas é uma aplicação desenvolvida em Python com interface gráfica utilizando Tkinter. Este programa facilita a organização e o acompanhamento de tarefas, permitindo ao usuário adicionar, visualizar, editar e gerenciar tarefas de forma eficiente.
+O Gerenciador de Tarefas é uma aplicação desenvolvida em Python com interface gráfica utilizando Tkinter. Este programa facilita a organização e o acompanhamento de tarefas, permitindo ao usuário adicionar, visualizar, editar, excluir e gerenciar as tarefas de forma eficiente.
+Além de ajudar a aumentar a produtividade e a evitar o esquecimento de compromissos importantes através do envio de lembretes por e-mail aos usuários.
 
 ## Funcionalidades
 
@@ -26,8 +27,6 @@ O Gerenciador de Tarefas é uma aplicação desenvolvida em Python com interface
 - **Detalhes Inclusos no E-mail**: Cada e-mail enviado contém o nome da tarefa, a data e a hora do prazo final, além de um lembrete sobre o tipo de notificação configurada (por exemplo, 'uma hora antes' ou 'um dia antes'). Isso fornece todas as informações necessárias para que o usuário possa gerenciar suas tarefas eficientemente.
 
 - **Configuração Automática de Horários**: Quando uma tarefa é adicionada sem especificar a "Hora de Início" ou a "Hora para Conclusão", o sistema automaticamente define esses campos para facilitar o gerenciamento e as notificações. Se a "Hora de Início" não for fornecida, ela será definida como "00:00 AM" (meia-noite), e se a "Hora para Conclusão" não for fornecida, será definida como "23:59 PM" (um minuto antes da meia-noite). Essa configuração garante que todas as tarefas tenham um tempo definido e permite que as notificações sejam enviadas de maneira adequada e no tempo correto.
-
-A funcionalidade do Envio de E-mails é crucial para manter os usuários ativamente informados sobre suas tarefas iminentes, ajudando a aumentar a produtividade e a evitar o esquecimento de compromissos importantes.
 
 ## Imagens da Aplicação
 
