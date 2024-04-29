@@ -17,17 +17,17 @@ O Gerenciador de Tarefas é uma aplicação desenvolvida em Python com interface
 
 ## Envio de E-mails
 
-- **Notificações Proativas**: O sistema envia automaticamente e-mails para os usuários informando sobre tarefas que estão se aproximando do prazo final. Isso ajuda a garantir que as tarefas não sejam esquecidas e que possam ser concluídas a tempo.
+- **Como Funciona**: Toda vez que o usuário abrir a aplicação ela fará uma varredura nas tarefas inseridas e irá enviar um e-mail ao usuário quando qualquer tarefa que tiver sido incluída estiver a um dia e/ou uma hora do seu prazo final.
 
-- **Personalização de Alertas**: Os usuários podem configurar o momento em que desejam receber esses alertas, escolhendo receber notificações um dia, uma hora, ou mesmo uma semana antes do prazo final de uma tarefa.
+- **Notificações Proativas**: O sistema envia automaticamente e-mails como forma de lembrete para os usuários informando sobre tarefas que estão se aproximando do prazo final. Isso ajuda a garantir que as tarefas não sejam esquecidas e que possam ser concluídas a tempo.
+
+- **Tipos de Lembretes**: Os usuários recebem um lembrete por e-mail sempre que estiver faltando um dia e/ou uma hora antes do prazo final definido para uma tarefa.
 
 - **Detalhes Inclusos no E-mail**: Cada e-mail enviado contém o nome da tarefa, a data e a hora do prazo final, além de um lembrete sobre o tipo de notificação configurada (por exemplo, 'uma hora antes' ou 'um dia antes'). Isso fornece todas as informações necessárias para que o usuário possa gerenciar suas tarefas eficientemente.
 
-- **Suporte para Vários Destinatários**: O sistema é capaz de enviar e-mails para múltiplos destinatários ao mesmo tempo, permitindo que equipes de trabalho sejam notificadas simultaneamente sobre os prazos das tarefas.
+- **Configuração Automática de Horários**: Quando uma tarefa é adicionada sem especificar a "Hora de Início" ou a "Hora para Conclusão", o sistema automaticamente define esses campos para facilitar o gerenciamento e as notificações. Se a "Hora de Início" não for fornecida, ela será definida como "00:00 AM" (meia-noite), e se a "Hora para Conclusão" não for fornecida, será definida como "23:59 PM" (um minuto antes da meia-noite). Essa configuração garante que todas as tarefas tenham um tempo definido e permite que as notificações sejam enviadas de maneira adequada e no tempo correto.
 
-- **Configuração Fácil**: A configuração para o envio de e-mails é simples e pode ser feita diretamente através da interface do aplicativo, garantindo que os usuários possam facilmente personalizar como e quando receberão as notificações.
-
-Esta funcionalidade é crucial para manter os usuários ativamente informados sobre suas tarefas iminentes, ajudando a aumentar a produtividade e a evitar o esquecimento de compromissos importantes.
+A funcionalidade do Envio de E-mails é crucial para manter os usuários ativamente informados sobre suas tarefas iminentes, ajudando a aumentar a produtividade e a evitar o esquecimento de compromissos importantes.
 
 ## Imagens da Aplicação
 
@@ -64,14 +64,14 @@ Para instalar e executar o Gerenciador de Tarefas, você pode simplesmente segui
 
 ## Teste de Funcionalidade
 
-Utilize o e-mail pré-definido abaixo para ter uma visão geral da capacidade da aplicação. A aplicação tem a funcionalidade de enviar um lembrete por e-mail, alertando ao usuário quando uma tarefa estiver a apenas 1 dia de atingir o seu prazo final.
+Utilize o e-mail pré-definido abaixo para ter uma visão geral da capacidade da aplicação. A aplicação tem a funcionalidade de enviar um lembrete por e-mail, alertando ao usuário quando uma tarefa estiver a apenas um dia e/ou uma hora de atingir o seu prazo final.
 
 Insira a tarefa normalmente através da interface do usuário e cheque a caixa de entrada do e-mail fornecido.
 
 - **E-mail**: freegerenciador@gmail.com
 - **Senha**: 123teste4
 
-Toda vez que o usuário abrir a aplicação ela fará uma varredura nas tarefas inseridas e irá enviar um e-mail ao usuário quando qualquer tarefa que tiver sido incluída estiver a 1 dia do seu prazo final.
+Toda vez que o usuário abrir a aplicação ela fará uma varredura nas tarefas inseridas e irá enviar um e-mail ao usuário quando qualquer tarefa que tiver sido incluída estiver a um dia e/ou uma hora do seu prazo final.
 
 ## Licença
 
