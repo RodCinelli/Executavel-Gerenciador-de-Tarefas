@@ -15,6 +15,10 @@ O Gerenciador de Tarefas é uma aplicação desenvolvida em Python, que utiliza 
 - **Mensagens de Aviso e Sucesso**: Informações sobre ações do sistema.
 - **Envio de E-mails**: Envia ao usuário e-mails relacionados as tarefas que estão próximas ao prazo final.
 
+## Inserindo Datas e Horas
+
+- **Praticidade na Entrada de Dados**:  Ao inserir uma data, como "29/04/2024", o usuário não precisa incluir as barras ("/"). Basta digitar os números consecutivamente (29042024) que o sistema automaticamente formatará para "29/04/2024". O mesmo se aplica à inserção de horas. Por exemplo, para registrar 5h da tarde, o usuário pode simplesmente digitar "1700", e o sistema completará automaticamente para "17:00 PM", indicando claramente que se trata do horário da tarde. Esta funcionalidade de auto-completação facilita a entrada de informações e minimiza erros de formatação, tornando a interface mais intuitiva e eficiente.
+
 ## Envio de E-mails
 
 - **Como Funciona**: Toda vez que o usuário abrir a aplicação ela fará uma varredura nas tarefas inseridas e irá enviar um e-mail ao usuário quando qualquer tarefa que tiver sido incluída estiver a um dia e/ou uma hora do seu prazo final.
