@@ -2,8 +2,7 @@
 
 ## Descrição Geral
 
-O Gerenciador de Tarefas é uma aplicação desenvolvida em Python com interface gráfica utilizando Tkinter. Este programa facilita a organização e o acompanhamento de tarefas, permitindo ao usuário adicionar, visualizar, editar, excluir e gerenciar as tarefas de forma eficiente.
-Além de ajudar a aumentar a produtividade e a evitar o esquecimento de compromissos importantes através do envio de lembretes por e-mail aos usuários.
+O Gerenciador de Tarefas é uma aplicação desenvolvida em Python, que utiliza a interface gráfica Tkinter. Este programa facilita a organização e o acompanhamento de tarefas, permitindo que o usuário adicione, visualize, edite, exclua e gerencie suas tarefas de forma eficiente. Além disso, ajuda a aumentar a produtividade e a evitar o esquecimento de compromissos importantes, enviando lembretes por e-mail aos usuários.
 
 ## Funcionalidades
 
