@@ -15,6 +15,20 @@ O Gerenciador de Tarefas é uma aplicação desenvolvida em Python com interface
 - **Mensagens de Aviso e Sucesso**: Informações sobre ações do sistema.
 - **Envio de E-mails**: Envia ao usuário e-mails relacionados as tarefas que estão próximas ao prazo final.
 
+## Envio de E-mails
+
+- **Notificações Proativas**: O sistema envia automaticamente e-mails para os usuários informando sobre tarefas que estão se aproximando do prazo final. Isso ajuda a garantir que as tarefas não sejam esquecidas e que possam ser concluídas a tempo.
+
+- **Personalização de Alertas**: Os usuários podem configurar o momento em que desejam receber esses alertas, escolhendo receber notificações um dia, uma hora, ou mesmo uma semana antes do prazo final de uma tarefa.
+
+- **Detalhes Inclusos no E-mail**: Cada e-mail enviado contém o nome da tarefa, a data e a hora do prazo final, além de um lembrete sobre o tipo de notificação configurada (por exemplo, 'uma hora antes' ou 'um dia antes'). Isso fornece todas as informações necessárias para que o usuário possa gerenciar suas tarefas eficientemente.
+
+- **Suporte para Vários Destinatários**: O sistema é capaz de enviar e-mails para múltiplos destinatários ao mesmo tempo, permitindo que equipes de trabalho sejam notificadas simultaneamente sobre os prazos das tarefas.
+
+- **Configuração Fácil**: A configuração para o envio de e-mails é simples e pode ser feita diretamente através da interface do aplicativo, garantindo que os usuários possam facilmente personalizar como e quando receberão as notificações.
+
+Esta funcionalidade é crucial para manter os usuários ativamente informados sobre suas tarefas iminentes, ajudando a aumentar a produtividade e a evitar o esquecimento de compromissos importantes.
+
 ## Imagens da Aplicação
 
 - **Interface do Usuário**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/interface_de_usuario.png" alt="Interface do Usuário"><br>
