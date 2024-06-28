@@ -45,7 +45,7 @@ O Gerenciador de Tarefas é uma aplicação desenvolvida em Python, que utiliza 
 
 - **Botão Reset**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/botao_reset.png" alt="Botão Reset"><br>
 
-- **Notificações por E-mail**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/notificacoes_por_email1.png" alt="Botão Reset"><br>
+- **Notificações por E-mail**:<br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/notificacoes_por_email1.png" alt="Notificações por E-mail"><br><br><br><img src="https://github.com/RodCinelli/Executavel-Gerenciador-de-Tarefas/raw/main/images/notificacoes_por_email2.png" alt="Notificações por E-mail"><br>
 
 ## Tecnologias Utilizadas
 
