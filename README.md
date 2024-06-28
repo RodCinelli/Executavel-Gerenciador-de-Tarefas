@@ -66,14 +66,14 @@ Para instalar e executar o Gerenciador de Tarefas, você pode simplesmente segui
 
 ## Teste de Funcionalidade
 
-Utilize o e-mail pré-definido abaixo para ter uma visão geral da capacidade da aplicação. A aplicação tem a funcionalidade de enviar um lembrete por e-mail, alertando ao usuário quando uma tarefa estiver a apenas um dia e/ou uma hora de atingir o seu prazo final.
+Utilize o e-mail pré-definido abaixo para ter uma visão geral da capacidade da aplicação. A aplicação tem a funcionalidade de enviar um lembrete por e-mail, alertando ao usuário quando uma tarefa estiver a apenas um dia, uma hora ou menos de atingir o seu prazo final.
 
 Insira a tarefa normalmente através da interface do usuário e cheque a caixa de entrada do e-mail fornecido.
 
 - **E-mail**: freegerenciador@gmail.com
 - **Senha**: 123teste4
 
-Toda vez que o usuário abrir a aplicação ela fará uma varredura nas tarefas inseridas e irá enviar um e-mail ao usuário quando qualquer tarefa que tiver sido incluída estiver a um dia e/ou uma hora do seu prazo final.
+Toda vez que o usuário abrir a aplicação ela fará uma varredura nas tarefas inseridas e irá enviar um e-mail ao usuário quando qualquer tarefa que tiver sido incluída estiver a um dia, uma hora ou menos do seu prazo final.
 
 ## Licença
 
