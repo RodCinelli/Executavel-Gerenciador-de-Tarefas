@@ -21,11 +21,11 @@ O Gerenciador de Tarefas é uma aplicação desenvolvida em Python, que utiliza 
 
 ## Envio de E-mails
 
-- **Como Funciona**: Toda vez que o usuário abrir a aplicação ela fará uma varredura nas tarefas inseridas e irá enviar um e-mail ao usuário quando qualquer tarefa que tiver sido incluída estiver a um dia e/ou uma hora do seu prazo final.
+- **Como Funciona**: Toda vez que o usuário abrir a aplicação, ela fará uma varredura nas tarefas inseridas e enviará um e-mail ao usuário quando qualquer tarefa estiver a um dia, uma hora ou menos do prazo final. Além disso, notificará caso a tarefa já tenha ultrapassado o prazo determinado.
 
-- **Notificações Proativas**: O sistema envia automaticamente e-mails como forma de lembrete para os usuários informando sobre tarefas que estão se aproximando do prazo final. Isso ajuda a garantir que as tarefas não sejam esquecidas e que possam ser concluídas a tempo.
+- **Notificações Proativas**: O sistema envia automaticamente e-mails como lembretes para os usuários, informando sobre tarefas que estão se aproximando do prazo final. Isso ajuda a garantir que as tarefas não sejam esquecidas e sejam concluídas a tempo.
 
-- **Tipos de Lembretes**: Os usuários recebem um lembrete por e-mail sempre que estiver faltando um dia e/ou uma hora antes do prazo final definido para uma tarefa.
+- **Tipos de Lembretes**: Os usuários recebem lembretes por e-mail quando falta um dia, uma hora ou menos para o prazo final definido para uma tarefa.
 
 - **Detalhes Inclusos no E-mail**: Cada e-mail enviado contém o nome da tarefa, a data e a hora do prazo final, além de um lembrete sobre o tipo de notificação configurada (por exemplo, 'uma hora antes' ou 'um dia antes'). Isso fornece todas as informações necessárias para que o usuário possa gerenciar suas tarefas eficientemente.
 
@@ -81,7 +81,7 @@ Esta aplicação e seu código fonte é atualmente definida como privada. Os dir
 
 ## Contato
 
-Se gostou da aplicação e deseja adquirir ela de modo que envie notificações ao seu e-mail pessoal, ou empresarial, ou deseja funcionalidades exclusivas, entre em contato comigo através do e-mail abaixo:
+Se gostou da aplicação e deseja adquirir ela de modo que envie notificações ao seu e-mail pessoal, ou empresarial, ou deseja funcionalidades exclusivas, entre em contato comigo através do e-mail ou telefone abaixo:
 
 - Rodrigo Cinelli - [Enviar Email](mailto:rodcinelli@gmail.com)
-- Link do Projeto: [GitHub - Gerenciador de Tarefas](https://github.com/RodCinelli/Gerenciador-de-Tarefas)
+- Telefone: (21) 98322 0819
