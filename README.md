@@ -9,7 +9,7 @@ O Gerenciador de Tarefas é uma aplicação desenvolvida em Python, que utiliza 
 - **Adicionar Novas Tarefas**: Preencha os campos e clique em "Adicionar" para salvar a tarefa.
 - **Visualizar Tarefas Existentes**: Veja as tarefas na interface do programa.
 - **Pesquisar Tarefas**: Encontre tarefas específicas rapidamente digitando o ID da tarefa no campo correspondente. 
-- **Editar Tarefas**: Edite detalhes das tarefas existentes em uma janela separada.
+- **Editar Tarefas**: Edite os detalhes das tarefas existentes ou altere seu status para pendente ou concluída, conforme desejar.
 - **Deletar Tarefas**: Remova tarefas individualmente.
 - **Botão 'Reset'**: Limpe todas as tarefas de uma vez e resete os IDs para zero.
 - **Mensagens de Aviso e Sucesso**: Informações sobre ações do sistema.
