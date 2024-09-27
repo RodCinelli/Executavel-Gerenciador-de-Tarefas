@@ -86,7 +86,7 @@ Esta aplicação e seu código fonte é atualmente definida como privada. Os dir
 
 ## Link do programa em distribuição
 
-[O programa sendo vendido no site vintepila](https://www.vintepila.com.br/servicos/outros-servicos-programacao/eu-vou-criar-um-gerenciador-de-tarefas-personalizado/)
+[Clique para acessar a venda do programa](https://www.vintepila.com.br/servicos/outros-servicos-programacao/eu-vou-criar-um-gerenciador-de-tarefas-personalizado/)
 
 ## Contato
 
