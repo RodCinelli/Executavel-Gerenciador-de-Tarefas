@@ -7,17 +7,20 @@ O Gerenciador de Tarefas é uma aplicação desenvolvida em Python, que utiliza 
 ## Funcionalidades
 
 - **Adicionar Novas Tarefas**: Preencha os campos e clique em "Adicionar" para salvar a tarefa.
-- **Visualizar Tarefas Existentes**: Veja as tarefas na interface do programa.
-- **Pesquisar Tarefas**: Encontre tarefas específicas rapidamente digitando o ID da tarefa no campo correspondente. 
-- **Editar Tarefas**: Edite os detalhes das tarefas existentes ou altere seu status para pendente ou concluída, conforme desejar.
-- **Deletar Tarefas**: Remova tarefas individualmente.
+- **Visualizar Tarefas Existentes**: Veja as tarefas na interface do programa. Tarefas com status “importante”, “pendente” ou “concluída” são coloridas automaticamente:
+- **Importante**: Tarefas contendo a palavra “importante” após “-” ou “/” aparecerão em vermelho.
+- **Pendente**: Tarefas contendo a palavra “pendente” após “-” ou “/” aparecerão em laranja.
+- **Concluída**: Tarefas contendo as palavras “concluído” ou “concluída” após “-” ou “/” aparecerão em verde.
+- **Pesquisar Tarefas**: Encontre tarefas específicas rapidamente digitando o ID da tarefa ou uma palavra-chave no campo correspondente.
+- **Editar Tarefas**: Edite os detalhes das tarefas existentes e altere seu status para importante, pendente ou concluída, conforme desejar. As tarefas editadas serão coloridas automaticamente conforme a palavra-chave.
+- **Excluir Tarefas**: Exclua tarefas indesejadas da lista. As tarefas são exibidas com a coloração correspondente antes da exclusão.
 - **Botão 'Reset'**: Limpe todas as tarefas de uma vez e resete os IDs para zero.
-- **Mensagens de Aviso e Sucesso**: Informações sobre ações do sistema.
-- **Envio de E-mails**: Envia ao usuário e-mails relacionados as tarefas que estão próximas ao prazo final.
+- **Mensagens de Aviso e Sucesso**: Informações sobre ações do sistema para manter o usuário informado.
+- **Envio de E-mails**: Envia ao usuário e-mails relacionados às tarefas que estão próximas ao prazo final.
 
 ## Inserindo Datas e Horas
 
-- **Praticidade na Entrada de Dados**:  Ao inserir uma data, como "29/04/2024", o usuário não precisa incluir as barras ("/"). Basta digitar os números consecutivamente (29042024) que o sistema automaticamente formatará para "29/04/2024". O mesmo se aplica à inserção de horas. Por exemplo, para registrar 5h da tarde, o usuário pode simplesmente digitar "1700", e o sistema completará automaticamente para "17:00 PM", indicando claramente que se trata do horário da tarde. Esta funcionalidade de auto-completação facilita a entrada de informações e minimiza erros de formatação, tornando a interface mais intuitiva e eficiente.
+- **Praticidade na Entrada de Dados**:  Ao inserir uma data, como “29/04/2024”, o usuário não precisa incluir as barras (“/”). Basta digitar os números consecutivamente (29042024) que o sistema automaticamente formatará para “29/04/2024”. O mesmo se aplica à inserção de horas. Por exemplo, para registrar 5h da tarde, o usuário pode simplesmente digitar “1700”, e o sistema completará automaticamente para “17:00 PM”, indicando claramente que se trata do horário da tarde. Esta funcionalidade de auto-completação facilita a entrada de informações e minimiza erros de formatação, tornando a interface mais intuitiva e eficiente.
 
 ## Envio de E-mails
 
@@ -27,9 +30,9 @@ O Gerenciador de Tarefas é uma aplicação desenvolvida em Python, que utiliza 
 
 - **Tipos de Lembretes**: Os usuários recebem lembretes por e-mail quando falta um dia, uma hora ou menos para o prazo final definido para uma tarefa.
 
-- **Detalhes Inclusos no E-mail**: Cada e-mail enviado contém o nome da tarefa, a data e a hora do prazo final, além de um lembrete sobre o tipo de notificação configurada (por exemplo, 'uma hora antes' ou 'um dia antes'). Isso fornece todas as informações necessárias para que o usuário possa gerenciar suas tarefas eficientemente.
+- **Detalhes Inclusos no E-mail**: Cada e-mail enviado contém o nome da tarefa, a data e a hora do prazo final, além de um lembrete sobre o tipo de notificação configurada (por exemplo, ‘uma hora antes’ ou ‘um dia antes’). Isso fornece todas as informações necessárias para que o usuário possa gerenciar suas tarefas eficientemente.
 
-- **Configuração Automática de Horários**: Quando uma tarefa é adicionada sem especificar a "Hora de Início" ou a "Hora para Conclusão", o sistema automaticamente define esses campos para facilitar o gerenciamento e as notificações. Se a "Hora de Início" não for fornecida, ela será definida como "00:00 AM" (meia-noite), e se a "Hora para Conclusão" não for fornecida, será definida como "23:59 PM" (um minuto antes da meia-noite). Essa configuração garante que todas as tarefas tenham um tempo definido e permite que as notificações sejam enviadas de maneira adequada e no tempo correto.
+- **Configuração Automática de Horários**: Quando uma tarefa é adicionada sem especificar a “Hora de Início” ou a “Hora para Conclusão”, o sistema automaticamente define esses campos para facilitar o gerenciamento e as notificações. Se a “Hora de Início” não for fornecida, ela será definida como “00:00 AM” (meia-noite), e se a “Hora para Conclusão” não for fornecida, será definida como “23:59 PM” (um minuto antes da meia-noite). Essa configuração garante que todas as tarefas tenham um tempo definido e permite que as notificações sejam enviadas de maneira adequada e no tempo correto.
 
 ## Imagens da Aplicação
 
@@ -80,6 +83,10 @@ Toda vez que o usuário abrir a aplicação ela fará uma varredura nas tarefas 
 ## Licença
 
 Esta aplicação e seu código fonte é atualmente definida como privada. Os direitos autorais e de uso são reservados ao autor do projeto, Rodrigo Cinelli. A distribuição, modificação ou uso comercial sem permissão explícita não são permitidos.
+
+## Link do programa em distribuição
+
+[O programa sendo vendido no site vintepila](https://www.vintepila.com.br/servicos/outros-servicos-programacao/eu-vou-criar-um-gerenciador-de-tarefas-personalizado/)
 
 ## Contato
 
